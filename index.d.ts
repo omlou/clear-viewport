@@ -1,4 +1,4 @@
-export declare const cvp: {
-  init:Function
+export declare const cvp:{
+  init:(arg:object)=>void
   info:object
 }
